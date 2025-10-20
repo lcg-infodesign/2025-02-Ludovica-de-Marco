@@ -10,9 +10,8 @@ div {
   padding-top: 20px;
   padding-bottom: 20px;
   border: none;
-  background-color: rgb(236, 247, 119);
+  background-color: rgb(237, 245, 151);
 }
-// alternativa colore rgb(149, 242, 151);
 
 canvas {
   display: block;
