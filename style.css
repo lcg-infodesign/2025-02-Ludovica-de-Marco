@@ -3,6 +3,17 @@ html, body {
   padding: 0;
 }
 
+div {
+  text-align: center;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 1 rem;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  border: none;
+  background-color: rgb(236, 247, 119);
+}
+// alternativa colore rgb(149, 242, 151);
+
 canvas {
   display: block;
 }
